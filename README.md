@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vhutob1
+- 👋 Hi, I’m Brighton Tafadzwa Chirima
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Information Security
 - 💞️ I’m looking to collaborate on Application Development
