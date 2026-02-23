@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Brighton Tafadzwa Chirima
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Information Security
+- 👀 I’m interested in Devops
+- 🌱 I’m currently a Project Manager 
 - 💞️ I’m looking to collaborate on Application Development
-- 📫 How to reach me chirimab56@gmail.com Whatsapp +263776351115 
+- 📫 How to reach me chirimab56@gmail.com Whatsapp +263718273232 
 
 <!---
 vhutob1/vhutob1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
